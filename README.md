@@ -7,6 +7,8 @@
 #Xmind và reflection phần so sánh giữa Abstract class & Interface 01/02/2021 kiến thức bài 6   https://github.com/phamdao0220/Reflection_Moudle2.git
 #Reflection 02/02/2021 kiến thức bài 7  https://github.com/phamdao0220/Reflection_Moudle2.git
 #Xmind và reflection 03/02/2021 kiến thức bài 8 https://github.com/phamdao0220/Reflection_Moudle2.git
+#Xmind và reflection 04/02/2021 kiến thức bài 9 https://github.com/phamdao0220/Reflection_Moudle2.git
+
 
 
 
