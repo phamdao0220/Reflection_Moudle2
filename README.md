@@ -19,6 +19,12 @@
 
 #Reflection 05/02/2021 kiến thức bài 10 https://github.com/phamdao0220/Reflection_Moudle2.git
 
+#Xmind 17/02/2021 kiến thức bài 11 https://github.com/phamdao0220/Reflection_Moudle2.git
+
+#Xmind 18/02/2021 kiến thức bài 12 https://github.com/phamdao0220/Reflection_Moudle2.git
+
+
+
 
 
 
