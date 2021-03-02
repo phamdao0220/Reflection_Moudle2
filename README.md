@@ -35,6 +35,8 @@
 
 #Reflection và Xmind 01/03/2021 kiến thức bài 14,15,16,17,18,19 https://github.com/phamdao0220/Reflection_Moudle2.git
 
+#Reflection ngày 02/03/2021 kiến thức bài 20 https://github.com/phamdao0220/Reflection_Moudle2.git
+
 
 
 
